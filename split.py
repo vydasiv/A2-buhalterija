@@ -1,3 +1,4 @@
+## Papildomas modulis. Pagrindinis (22 failai be db).
 from decimal import Decimal, ROUND_HALF_UP
 
 def allocate_percent_parts(total: Decimal, percentages: list) -> list:
