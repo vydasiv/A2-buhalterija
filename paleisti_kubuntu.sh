@@ -1,5 +1,5 @@
 #!/bin/bash
-# Kubuntu 24.04 / 26.04 LTS paleidimo skriptas
+# Kubuntu 24.04 / 26.04.1 LTS paleidimo skriptas (PySide6)
 set -e
 cd "$(dirname "$0")"
 
