@@ -1,4 +1,4 @@
-# Asmeninių Finansų ir Apskaitos Programa (PySide6)
+# A2 buhalterija
 
 ## Paleidimas Ubuntu / Kubuntu Linux:
 ```bash
